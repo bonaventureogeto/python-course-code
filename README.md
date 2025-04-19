@@ -1,4 +1,3 @@
-# python-course-code
 # 🐍 Python for Absolute Beginners – YouTube Series
 
 Welcome to the **Python for Absolute Beginners** course! 🎉
